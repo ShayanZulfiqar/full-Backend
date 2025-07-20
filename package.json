@@ -13,6 +13,7 @@
   "description": "",
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "cloudinary": "^2.7.0",
     "cookies-parser": "^1.2.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
@@ -21,7 +22,8 @@
     "mongodb": "^6.17.0",
     "mongoose": "^8.16.4",
     "mongoose-aggregate-paginate-v2": "^1.1.4",
-    "mongoose-paginate-v2": "^1.9.1"
+    "mongoose-paginate-v2": "^1.9.1",
+    "multer": "^2.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.10",
